@@ -1,0 +1,6 @@
+{
+  "name": "VibeForge Flow",
+  "description": "Generative ambient audio synthesizer, cognitive focus sprint companion, and flow state workspace built for Vibe Forge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

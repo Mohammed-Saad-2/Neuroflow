@@ -1,0 +1,6 @@
+What you build
+You may build a project on any lawful topic. Categories help organize entries; they do not limit your ideas.
+Your entry must be a real, working digital product (for example a website, web app, tool or game) that judges can open and use. A mockup, slide deck or video alone is not enough.
+You must submit a video pitch of no more than two minutes. Entrants who completed registration before 15 October 2026, 00:00 UTC may submit a pitch of up to three minutes under the earlier rule. Don't show your face — record your screen with a voice-over that explains your product's architecture, shows the code where possible, and demonstrates the main features. Video editing quality is not judged.
+Your live website or app must include a visible footer credit naming Vibe Forge and you or your team. For example: Built for Vibe Forge by [your name or team name].
+Pre-existing projects: the work you submit must be created during your build period. You may use your own earlier ideas, open-source libraries, templates and starter kits, but you must clearly describe anything that existed before your build period in your submission. The organizer may disqualify entries that misrepresent pre-existing work.

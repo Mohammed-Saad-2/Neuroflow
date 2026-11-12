@@ -1,0 +1,58 @@
+================================================================================
+NEUROFLOW — 2-MINUTE SCREEN RECORDING & DEMO SCRIPT
+Author: Saad | Built for Vibe Forge Hackathon 2026
+Topic: Deep Work Audio Engine & Cognitive Flow Sanctuary
+================================================================================
+
+[0:00 - 0:30] — THE PROBLEM & VISION
+(Visual action: Start on the home screen showing NeuroFlow's hero and canvas visualizer)
+
+"Hello judges! In modern software development, intense coding sprints, and research, 
+our flow state is constantly shattered by background noise, cognitive fatigue, 
+and ADHD distractions. Most productivity apps either play looped MP3s that cause 
+subconscious cognitive fatigue within 30 minutes, or simply offer a basic timer.
+
+I created NeuroFlow — a deep work cognitive sanctuary and real-time audio 
+synthesizer engineered to induce and sustain peak mental flow."
+
+
+[0:30 - 1:15] — LIVE PRODUCT DEMONSTRATION
+(Visual action: Click 'Start Soundscape'. Move the master volume slider and adjust channel sliders)
+
+"Let's look at the product in action.
+First, notice there are zero audio files or pre-recorded loops. When I click 
+'Start Soundscape', the browser synthesizes seven independent audio channels 
+in real time:
+- Brownian noise creates an acoustic cloak that completely isolates background speech.
+- Rain and forest wind provide organic acoustic texture.
+- And with headphones, our Binaural Beat Engine sends 211 Hz to the left ear 
+  and 221 Hz to the right ear, creating a pure 10 Hz Alpha beat that synchronizes 
+  brainwaves for relaxed alertness.
+
+(Visual action: Hover your mouse across the canvas visualizer)
+Right above the mixer, our 60 FPS harmonic canvas extracts frequency data 
+in real time through an AnalyserNode, reacting organically as you move your cursor.
+You can switch between Constellation, Aurora Waves, or full-screen Zen Mode."
+
+
+[1:15 - 1:45] — SPRINT TIMER, TASK QUEUE & BREATHWORK
+(Visual action: Scroll down to the Sprint Timer, click 'Start Sprint', then click 'Guided Breathing' in the top bar)
+
+"Down here, our cognitive sprint orchestrator links directly with our task board. 
+You can schedule high-impact tasks, set sprint estimates, and run 25-minute 
+or 50-minute deep work intervals.
+
+When you need a quick rest between sprints, a single click opens our Guided 
+Breathwork companion. It uses an animated visual circle for Box Breathing and 
+4-7-8 autonomic resets to downregulate cortisol and refresh your focus."
+
+
+[1:45 - 2:00] — CONCLUSION & IMPACT
+(Visual action: Scroll to the bottom showing the visible footer: 'Built for Vibe Forge by Saad')
+
+"Everything you see is built with modern React, TypeScript, and the native 
+Web Audio API. It runs with zero server latency and 100% offline privacy.
+
+NeuroFlow turns chaotic work environments into personal sanctuaries of deep focus.
+Built for Vibe Forge by Saad. Thank you!"
+================================================================================
